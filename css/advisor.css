@@ -285,7 +285,7 @@ HEADER
 -------------------------------------------------------------------*/
 
 #header{ right: 0;top: 0;z-index: 300;left: 0;}
-#header .top-bar{ background:#323946; color:#fff; margin:0 30px; padding:0 20px; position:relative; height:49px;}
+#header .top-bar{ background:#323946; color:#a2ad20; margin:0 30px; padding:0 20px; position:relative; height:49px;}
 #header .top-bar:before{ position:absolute; left:-30px; top:-33px; width:35px; height:79px; content:""; background:#404856;-ms-transform: rotate(-40deg);-webkit-transform: rotate(-40deg);transform: rotate(-40deg);}
 #header .top-bar:after{ position:absolute; right:-30px; top:-33px; width:35px; height:79px; content:""; background:#323946;-ms-transform: rotate(40deg);-webkit-transform: rotate(40deg);transform: rotate(40deg);}
 #header .top-bar p:after{ position:absolute; right:-30px; top:-33px; width:35px; height:79px; content:""; background:#404856;-ms-transform: rotate(40deg);-webkit-transform: rotate(40deg);transform: rotate(40deg);}
@@ -677,9 +677,9 @@ SHOP
 
 -------------------------------------------------------------------*/
 
-.shop-list{margin: 0 -10px;padding: 0 10px; width: 102.3%;}
+.shop-list{margin: 0 -10px;padding: 0 10px; width: 130%;}
 .shop-list h2{font-size:32px;}
-.shop-list li{display: inline-block; padding: 0 10px; width: 32.8%;vertical-align: top;}
+.shop-list li{display: inline-block; padding: 0 10px; width: 20%;vertical-align: top;}
 .product{border:1px solid #dadada;display: inline-table;width: 100%; margin: 0 0 27px;}
 .product-thumb{position:relative;margin:-1px;}
 .product-thumb img { width: 100%;}
